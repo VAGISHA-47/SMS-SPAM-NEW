@@ -1,0 +1,5 @@
+{
+  "name": "IntelliSpam Shield",
+  "description": "An AI-powered SMS spam detector that automatically scans and classifies incoming messages as 'Spam' or 'Not Spam' using the Gemini API, providing a clean, intuitive interface for users to manage their messages.",
+  "requestFramePermissions": []
+}
